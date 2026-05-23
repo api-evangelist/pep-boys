@@ -1,0 +1,49 @@
+aid: pep-boys
+name: Pep Boys
+description: >-
+  Pep Boys is an American automotive aftermarket service chain founded in 1921
+  and headquartered in Bala Cynwyd, Pennsylvania. Owned by Icahn Enterprises
+  since 2016, Pep Boys completed its transition away from retail parts in
+  December 2023 and now operates as a service-only chain with roughly 850 to
+  900+ service centers across the U.S. and Puerto Rico, including a Pep Boys
+  Mobile Crew offering for fleet and on-location maintenance. Pep Boys does not
+  publish a public developer program, OpenAPI definition, SDKs, or webhooks.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Auto Service
+  - Auto Repair
+  - Tires
+  - Fleet
+  - Retail
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/pep-boys/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.pepboys.com
+  - type: About
+    url: https://www.pepboys.com/about-us
+  - type: Fleet
+    url: https://www.pepboys.com/fleet
+  - type: StoreLocator
+    url: https://www.pepboys.com/stores
+  - type: Careers
+    url: https://www.pepboys.com/careers
+  - type: GitHubOrganization
+    url: https://github.com/pepboys
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pep-boys
+  - type: Parent Company
+    url: https://www.icahnautomotive.com
+  - type: Ultimate Parent
+    url: https://www.ielp.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
