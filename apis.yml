@@ -26,6 +26,10 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pep-boys-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pep-boys-domain-security.yml
   - type: Website
     url: https://www.pepboys.com
   - type: About
