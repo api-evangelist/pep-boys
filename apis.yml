@@ -9,6 +9,17 @@ description: >-
   Mobile Crew offering for fleet and on-location maintenance. Pep Boys does not
   publish a public developer program, OpenAPI definition, SDKs, or webhooks.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
